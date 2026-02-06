@@ -31,3 +31,9 @@ als falsche Ansprachen.
 ## Notes
 Dieses Projekt dient als Lern- und Portfolio-Projekt und legt den Fokus
 auf saubere Struktur, Nachvollziehbarkeit und realistische Evaluation.
+
+## How to run
+
+```bash
+pip install -r requirements.txt
+python main.py
